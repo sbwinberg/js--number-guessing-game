@@ -1,6 +1,6 @@
 # JavaScript - Number Guessing Game
 
-Du använder dig av DOM:en för att interagera med HTML/CSS. Du använder enbart Vanilla JavaScript (inget ramverk/bibliotek). Du stylar i CSS efter egna preferenser.
+Du använder dig av DOM:en för att interagera med HTML/CSS. Du använder enbart Vanilla JavaScript (inget ramverk/bibliotek). Du stylar i CSS efter egna preferenser, bättre än exempelbilden :-)
 
 ## Spelregler
 
@@ -14,4 +14,4 @@ Spelaren har 3 chanser att försöka gissa rätt tal.
 
 ## Exempel
 
-![Javascript Number Guessing Game](https://github.com/chasacademy-sandra-larsson/js--memory-game/blob/main/memory-game.gif)
+![Javascript Number Guessing Game](https://github.com/chasacademy-sandra-larsson/js--number-guessing-game/blob/main/number-guessing-game.png)
