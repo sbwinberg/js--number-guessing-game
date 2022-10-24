@@ -22,7 +22,7 @@ Det ska finnas med en lista som visar de senaste gissningsförsöken.
 
 ## Utöka gissningsspelet genom att du spelar mot en "AI"
 
-Samma gissningsspelet som ovan men nu får användaren en AI att spela mot. Denna AI får också gissa på ett slumptal mellan 1 till 100 m.h.a [Math.random()](https://www.w3schools.com/js/js_random.asp) varpå "tipsen" från båda spelarna skrivs ut. 
+Samma gissningspel som ovan men nu får användaren en AI att spela mot. Denna AI får också gissa på ett slumptal mellan 1 till 100 m.h.a [Math.random()](https://www.w3schools.com/js/js_random.asp) varpå "tipsen" från båda spelarna skrivs ut. 
 Exempelvis:
 Den mänskliga spelaren gissar på 37. Programmet skriver ut att 37 är ett för lågt värde, varpå det blir AI:ns tur att gissa. 
 AI:n gissar på 56. Programmet skriver ut att 56 är ett för stort värde, varpå det blir den mänskliga spelarens tur att gissa.
