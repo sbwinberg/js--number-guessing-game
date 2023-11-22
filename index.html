@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the Number</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div class="board">
+        <h1>Number Guessing Game</h1>
+        <div class="vs">
+            <div class="player side">
+                <h2>You</h2>
+                <p class="guess-message-player">Guess a number between 0-100</p>
+                <p class="guessList-player"></p>
+            </div>
+            <div class="bot side">
+                <h2>Computer</h2>
+                <p class="guess-message-bot">Guess a number between 0-100</p>
+                <p class="guessList-bot"></p>
+            </div>
+        </div>
+        <input type="number" min="0", max="100" class="guess">
+        <button class="guess-btn guess">Guess!</button>
+    </div>
+    <dialog class="modal">
+        <h3 class="result"></h3>
+        <button class="restart">Try Again!</button>
+    </dialog>
+
+    <script  src="./js/app.js"></script>
+</body>
+</html>
